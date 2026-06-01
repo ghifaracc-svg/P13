@@ -1,5 +1,3 @@
-package P13;
-
 public class Student {
     String nim, name, className;
     double gpa;

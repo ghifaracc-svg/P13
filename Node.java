@@ -1,5 +1,3 @@
-package P13;
-
 public class Node {
     Student data;
     Node prev;
